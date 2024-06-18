@@ -1,0 +1,57 @@
+
+…
+java:S4973‹"<Strings and Boxed types should be compared using "equals()".(Ûò¨şÿÿÿÿ8ì¢äŞ‚2J$de35fc95-200f-4e9b-a8a8-d80d0c182d34
+“
+java:S1192¹"ODefine a constant instead of duplicating this literal "Ğ Ğ¾Ğ¶ĞµĞ²Ğ¸Ğ¹" 4 times.(¨ÁœÀ8ò¢äŞ‚2J$92990106-c1be-466c-a361-e42d5ec4fb5b
+–
+java:S1192Ñ"MDefine a constant instead of duplicating this literal "Ğ§Ğ¾Ñ€Ğ½Ğ¸Ğ¹" 3 times.(ëš¶Üüÿÿÿÿ8ò¢äŞ‚2J$c3d4597e-2bf1-40ab-8507-eeaf1316a033
+Ÿ
+java:S1192*"WDefine a constant instead of duplicating this literal "Ğ•Ğ»ĞµĞºÑ‚Ñ€Ğ¾Ğ½Ñ–ĞºĞ°" 3 times.(œò­Ÿÿÿÿÿÿ8ò¢äŞ‚2J$d4d99789-7fec-4499-8b03-1d89683b6170
+‘
+java:S1192¼"HDefine a constant instead of duplicating this literal "Samsung" 3 times.(µÏ”¶ûÿÿÿÿ8í¸äŞ‚2J$0daedcd5-b10e-44f4-be94-9603b255408e
+œ
+java:S1192º"SDefine a constant instead of duplicating this literal "ĞœĞ¾Ğ±Ñ–Ğ»ÑŒĞ½Ğ¸Ğ¹" 3 times.(ïİ‘ïûÿÿÿÿ8ò¢äŞ‚2J$988c180b-096c-4e02-8a36-9901c0293ea8
+
+java:S1192`"MDefine a constant instead of duplicating this literal "ĞœĞ¾Ğ»Ğ¾ĞºĞ¾" 3 times.(†±¢£8š¤äŞ‚2J$31294a32-a6dc-4279-a8d3-a69178e16393
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(Çµí‘8›¤äŞ‚2J$f5536ff1-e82d-4262-a379-488e70c4ef11
+¾
+java:S6204„"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8ª¤äŞ‚2J$a7dfe6cc-7cb3-4e5d-b069-4aebdd16c45f
+¾
+java:S6204Œ"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8«¤äŞ‚2J$f489430a-ab44-4ea3-a694-cf7ec4b4fac9
+¾
+java:S6204—"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8¯¤äŞ‚2J$a926cfa5-96df-4071-8122-1aa58bf5b232
+
+java:S1155˜">Use isEmpty() to check whether the collection is empty or not.(µ¬€8°¤äŞ‚2J$749f8173-8e3a-4ee9-8e21-8c52362f3f89
+¾
+java:S6204§"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8±¤äŞ‚2J$6ff63938-f149-4a4d-8ef2-f7675cee6427
+‡
+java:S1155¨">Use isEmpty() to check whether the collection is empty or not.(Â©Òùÿÿÿÿ8±¤äŞ‚2J$c6628abb-75bd-401d-b23c-da646f405aaa
+¾
+java:S6204Œ"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8·¤äŞ‚2J$efcba0b8-b95c-44e5-b068-87f1ec2feb5a
+¾
+java:S6204•"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8¸¤äŞ‚2J$b74d8172-7e40-45c4-b2a8-eaff6da47a65
+¾
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8¸¤äŞ‚2J$da4be33d-9be3-40a0-843e-80bf3ffe91d7
+¾
+java:S6204§"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8¹¤äŞ‚2J$e9375505-c5d2-453a-8d75-5d01183e9408
+¾
+java:S6204¯"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8º¤äŞ‚2J$d787256f-0103-4fe5-a9a9-da3b5ea9beb9
+¾
+java:S6204é"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8½¤äŞ‚2J$805e30db-d3bf-4b58-a496-648a45c5f93f
+¾
+java:S6204ò"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8Õ¼èŞ‚2J$dc881aee-e912-46db-b2be-6ecc7664c540
+¾
+java:S6204û"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8¤×ëŞ‚2J$9e7b6d9f-8462-4e81-9a68-3d5063719556
+¾
+java:S6204„"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8†øŞ‚2J$69811bb2-bd52-4824-9340-5fe857a72fe4
+¾
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8¯¢úŞ‚2J$0c13b64c-f1f1-45b8-97b1-653364f0350d
+¾
+java:S6204–"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8éê€ß‚2J$e194e707-3e36-460c-b8aa-b1962c318453
+¾
+java:S6204Ÿ"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(ª™¨¹8ëê€ß‚2J$f3cd5606-e978-4318-8dba-ebad012d68db
+w
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8±š‚ß‚2J$81db4670-1da2-44c8-87ab-8341c4a01cac
+Š
+java:S6541"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 335 to 64, Complexity from 22 to 14, Nesting Level from 3 to 2, Number of Variables from 49 to 6.(Çµí‘8À¤äŞ‚2J$49e0cda6-e96b-46e6-910f-198283e26d7a
